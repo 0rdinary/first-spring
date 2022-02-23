@@ -1,7 +1,6 @@
 package com.ordinary.firstSpring.domain.posts;
 
 import com.ordinary.firstSpring.domain.BaseTimeEntity;
-import com.sun.javafx.beans.IDProperty;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
